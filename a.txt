@@ -1,1 +1,2 @@
 master로 a.txt 수정: 첫작성 이다.
+master로 a.txt 수정: 두번쨰작성 이다.
