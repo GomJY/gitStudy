@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5515658e-1648-4361-9703-19b5c9eff7fb" name="Default Changelist" comment="up: a 수정">
-      <change afterPath="$PROJECT_DIR$/c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/c.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608531461218</updated>
-      <workItem from="1608531462337" duration="220000" />
+      <workItem from="1608531462337" duration="246000" />
     </task>
     <task id="LOCAL-00001" summary="up: a 수정">
       <created>1608531534043</created>
